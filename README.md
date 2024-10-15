@@ -59,6 +59,7 @@ To set up and run the Student Management System, follow these steps:
  ## Screenshots
 
  ![Sms](https://github.com/user-attachments/assets/aac91b36-03a0-474a-9bcc-e7a213060802)
+ 
  ![Sms2](https://github.com/user-attachments/assets/6f77c167-95e6-436e-b022-e25c36a0807e)
 
 
