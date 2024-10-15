@@ -56,3 +56,13 @@ To set up and run the Student Management System, follow these steps:
 - The GUI is created using Tkinter, allowing users to interact with the application visually. Users can input data into various fields, which will be saved to the database upon submission.
 - The application features a tree view to display student records dynamically, and actions can be performed using buttons provided in the interface.
 
+ ## Screenshots
+
+ ![Sms](https://github.com/user-attachments/assets/aac91b36-03a0-474a-9bcc-e7a213060802)
+ ![Sms2](https://github.com/user-attachments/assets/6f77c167-95e6-436e-b022-e25c36a0807e)
+
+
+ 
+
+ 
+
