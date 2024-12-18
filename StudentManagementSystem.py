@@ -12,9 +12,9 @@ def create_database():
     global conn, cursor
     try:
         conn = mysql.connector.connect(
-            host="127.0.0.1",  # or your MySQL server IP
+            host="0.0.0.0",  # or your MySQL server IP
             user="root",  # Replace with your MySQL username
-            password="Akshat@2004",  # Replace with your MySQL password
+            password="*********",  # Replace with your MySQL password
             database="student_registration_db"  # Replace with your database name
         )
         cursor = conn.cursor()
